@@ -1,4 +1,4 @@
-package com.wt.kotlin
+package com.wt.project
 
 import org.junit.Test
 
